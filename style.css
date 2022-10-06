@@ -1,0 +1,19 @@
+body
+{
+  color: red;
+  background-color: skyblue
+}
+.copy_right_footer {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    line-height: 3;
+    text-align: center;
+  }
+  span
+{
+	font-size: 12px;
+	color: red;
+}
